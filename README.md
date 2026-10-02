@@ -10,8 +10,12 @@
 
 
 <h1 align="center">Hi 👋, I'm MD Iftakhar ahmed rifat</h1>
-<h3 align="center">💻 Full-Stack Web Developer</h3>
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;Turning+Ideas+Into+Digital+Products;Building+Modern+%26+Scalable+Applications;Creating+Clean+%26+Meaningful+Experiences;Solving+Real-World+Problems+With+Code;Focused+On+Performance+%26+User+Experience;Always+Learning.+Always+Building."
+    alt="Typing Animation"
+  />
+</p>
 - 🔭I'm currently working with **JavaScript, TypeScript, Node.js, MySQL, Tailwind CSS, HTML & CSS**
 
 - 🌱 I’m currently learning **React.js, advanced TypeScript, REST APIs & backend architecture**
