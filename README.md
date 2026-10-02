@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="./portfolio-banner.png"
+    alt="MD Iftakhar Ahmed Rifat - Full Stack Web Developer"
+    width="100%"
+  />
+</p>
 
 
 
